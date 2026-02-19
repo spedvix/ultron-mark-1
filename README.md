@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🤖 Ultron Mark I</h1>
+  <h1 align="center">Ultron Mark I</h1>
   <p align="center">
     <em>AI-Powered Academic Assistant — Prototype</em>
   </p>
