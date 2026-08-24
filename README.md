@@ -1,7 +1,7 @@
 <p align="center">
-  <h1 align="center">Ultron Mark I</h1>
+  <h1 align="center">U.L.T.R.O.N. Mark I</h1>
   <p align="center">
-    <em>AI-Powered Academic Assistant — Prototype</em>
+    <em>Unified Lecture Tracker Reminder & Organizer Network — Prototype</em>
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/status-prototype-orange?style=flat-square" alt="Status: Prototype">
